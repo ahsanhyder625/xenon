@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/xenon/static/css/main.4b9b8fc4.css",
-    "main.js": "/xenon/static/js/main.c8958ca9.js",
+    "main.js": "/xenon/static/js/main.f03e286b.js",
     "static/js/488.244e8193.chunk.js": "/xenon/static/js/488.244e8193.chunk.js",
     "index.html": "/xenon/index.html",
     "main.4b9b8fc4.css.map": "/xenon/static/css/main.4b9b8fc4.css.map",
-    "main.c8958ca9.js.map": "/xenon/static/js/main.c8958ca9.js.map",
+    "main.f03e286b.js.map": "/xenon/static/js/main.f03e286b.js.map",
     "488.244e8193.chunk.js.map": "/xenon/static/js/488.244e8193.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b9b8fc4.css",
-    "static/js/main.c8958ca9.js"
+    "static/js/main.f03e286b.js"
   ]
 }
